@@ -1,0 +1,3 @@
+# excluded file patterns
+**/.DS_Store
+**/.idea/**
