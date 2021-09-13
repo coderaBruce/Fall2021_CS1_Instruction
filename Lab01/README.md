@@ -23,7 +23,7 @@
 ### Task2 --SVN Part: 
   URL: https://svn.cs.kent.edu/courses/cs13011/svn/USERNAME/ 
   Note: replace `USERNAME` with your Flashline username
-  1. Start within a new folder -- ** *DO NOT* create this folder inside your project folder** 
+  1. Start within a new folder -- ** DO NOT create this folder inside your project folder** 
   2. SVN Checkout
   3. Copy your project into the folder.
   4. SVN Add
