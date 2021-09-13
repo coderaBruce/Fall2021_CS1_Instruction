@@ -25,7 +25,9 @@
   Note: replace `USERNAME` with your Flashline username
   1. Start within a new folder -- ** DO NOT create this folder inside your project folder** 
   2. SVN Checkout
+  ### If you only add new project to your repo, you can start from there:
   3. Copy your project into the folder.
   4. SVN Add
   5. SVN Commit
   6. Check your commit from Browser.
+  
