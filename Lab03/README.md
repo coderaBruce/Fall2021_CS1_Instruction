@@ -8,5 +8,5 @@ Please refer to this link first:
    
 
 ## Task2 -- Figures
-   Goal: Practice `nested loop`
+   Goal: Practice `nested loop` with either `for loop` or `while loop`
    
