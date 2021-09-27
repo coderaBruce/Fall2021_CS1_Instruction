@@ -9,7 +9,7 @@ http://www.cplusplus.com/articles/yAqpX9L8/
 2. Clear structure; easy to read, manage and maintain especially for large projects.
 3. In C++, An entity can be declared multiple times, but only defined once. If a header file contains definitions, you can end up with the same entity being defined more than once.
 4. Convention: Header files should contain **declarations**, sourch files should contain **definitions**.
-5. Prototype, per its purpose, should only contain the variable type.
+5. Prototype, per its purpose, should only contain the variable type (not recommended to provide the names).
 6. Prototype declaration should end up with `;`
 
 ## Why we need header files
