@@ -49,3 +49,8 @@ void filledSquare(int size, char ch);
 #endif
 ```
 
+## Notes On Mac And Windows User
+Run below command for compiling multiple files:\
+`g++ figures.cpp figuresInput.cpp -o <name-of-executable>`
+
+
