@@ -25,7 +25,7 @@ Step2: Compile(which produces `.o` file)\
 Step3: Link(link these `.o` into exeutable) 
 
 
-## How to write a head file
+## How to write a header file
 Include:
 * include guards
 * Function/Class Prototypes
@@ -49,7 +49,7 @@ void filledSquare(int size, char ch);
 #endif
 ```
 
-## Notes On Mac And Windows User
+## Notes On Mac And Linux User
 Run below command for compiling multiple files:\
 `g++ figures.cpp figuresInput.cpp -o <name-of-executable>`
 
