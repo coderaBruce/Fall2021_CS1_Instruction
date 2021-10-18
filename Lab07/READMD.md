@@ -1,4 +1,5 @@
 # Lab07 C++ String
+New SVN: https://svn.cs.kent.edu/courses/cs13012/svn/USERNAME/ 
 1. People do not like Cstring(likely to be deprecated)
 2. String is a C++ class(object) and so does it has many methods, e.g., `s.size()`
 3. Declaring String: `string s`
