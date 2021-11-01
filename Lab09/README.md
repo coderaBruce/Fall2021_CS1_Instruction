@@ -27,4 +27,10 @@ int main() {
   return 0;
 }
 ```
+- Definition separately
+```
+MyClass::method1(){
+    
+}
+```
 
