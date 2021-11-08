@@ -11,6 +11,6 @@
 
 ## Dynamic Memory Allocation
 - Allocate Array
-    - `int* arr = int[size]`
+    - `int* arr = new int[size]`
 - Deallocate array
     - `del[] arr`
